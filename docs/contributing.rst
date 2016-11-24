@@ -27,7 +27,7 @@ interest:
 
 * "Ready" contains issues that are ready to work on.
 
-All of those labels are also available as a kanban board on `waffles.io
+All of those labels are also available as a kanban board on `waffle.io
 <https://waffle.io/pimutils/vdirsyncer>`_. It is really just an alternative
 overview over all issues, but might be easier to comprehend.
 
